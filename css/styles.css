@@ -4,7 +4,6 @@ body{
 	margin: 0;
 	text-align: center;
 	font-family: 'Merriweather', serif;
-
 }
 
 h1{
@@ -13,6 +12,7 @@ h1{
 	margin: 50px auto 0 auto;
 	font-family: 'Sacramento', cursive;
 }
+
 h2{
 	color: #66BFBF;
 	font-size: 2.5rem;
@@ -24,8 +24,17 @@ h3{
 	color: #11999E;
 	font-family: 'Montserrat', sans-serif;
 }
-a{
-	color: #11999E;
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: #30e3ca;
+	border-width: 5px;
+	width: 5%;
+}
+
+p{
+	color: #40514e;
 }
 /*Class Selector*/
 
@@ -41,6 +50,9 @@ a{
 
 }
 .bottom-container{
+	background-color: #66BFBF;
+	margin: auto;
+	padding: 50px;
 
 }
 .pro{
@@ -63,6 +75,10 @@ a{
 	text-align: left;
 	line-height: 2;
 }
+
+.footer-link{
+	color: #11999E;
+}
 .programming{
 	width: 25%;
 	float: left;
@@ -72,4 +88,7 @@ a{
 	width: 25%;
 	float: right;
 	margin-left: 30px;
+}
+.credit{
+	color: #EAF6F6;
 }
