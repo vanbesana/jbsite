@@ -42,7 +42,7 @@ p{
 }
 
 a{
-	color: #11999e;
+	color: #40514e;
 	font-family: 'Montserrat', sans-serif;
 	margin: 10px 20px;
 	text-decoration: none;
@@ -111,7 +111,6 @@ a:hover{
 }
 .credit{
 	color: #EAF6F6;
-	font-size: 0.75rem;
 	padding-top: 25px;
 }
 .btn {
