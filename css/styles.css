@@ -36,10 +36,20 @@ hr{
 	margin: 100px auto;
 
 }
+
 p{
 	line-height: 2;
 }
 
+a{
+	color: #11999e;
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+	text-decoration: none;
+}
+a:hover{
+	color: #e4f9f5;
+}
 /*Class Selector*/
 
 .top-container{
@@ -61,7 +71,7 @@ p{
 .bottom-container{
 	background-color: #66BFBF;
 	margin: auto;
-	padding: 40px;
+	padding: 50px 0 20px;
 
 }
 .pro{
@@ -84,11 +94,6 @@ p{
 	text-align: left;
 }
 
-.footer-link{
-	color: #11999E;
-	padding-left: 25px;
-	padding-right: 25px;
-}
 .programming{
 	width: 25%;
 	float: left;
@@ -106,6 +111,7 @@ p{
 }
 .credit{
 	color: #EAF6F6;
+	font-size: 0.75rem;
 	padding-top: 25px;
 }
 .btn {
