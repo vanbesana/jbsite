@@ -42,7 +42,7 @@ p{
 }
 
 a{
-	color: #40514e;
+	color: #40514e	;
 	font-family: 'Montserrat', sans-serif;
 	margin: 10px 20px;
 	text-decoration: none;
@@ -86,7 +86,7 @@ a:hover{
 .bottom-cloud{
 	position: absolute;
 	bottom: 300px;
-	left: 250px;
+	left: 200px;
 }
 .skill-row{
 	margin: 100px auto 100px auto;
